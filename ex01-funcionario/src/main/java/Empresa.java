@@ -48,7 +48,6 @@ public class Empresa {
                 System.out.println(f);
                 achou = true;
             }
-
         }
         if (!achou) {
             System.out.println("Não encontrado");

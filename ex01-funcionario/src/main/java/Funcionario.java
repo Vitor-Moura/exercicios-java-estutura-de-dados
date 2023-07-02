@@ -11,8 +11,6 @@ public abstract class Funcionario {
     //Métodos
     public abstract Double calcSalario();
 
-    //toString()
-
     @Override
     public String toString() {
         return "Funcionario{" +
