@@ -1,0 +1,13 @@
+Crie um projeto chamado ordenacao-1.
+
+Crie uma classe chamada Ordenacao.
+
+Implemente os métodos selectionSort e bubbleSort.
+
+Chame os me´todos a partir do main,.
+
+Atenção, pois quando um vetor é passado como argumento a um método, o vetor original é alterado.
+
+Dessa forma, mantenha um vetor desordenado para poder chamar o 2o método.
+
+Depois que os algoritmos funcionarem, acrescente nos métodos um contador de comparações e um contador de trocas e exiba no final do método quantas comparações e quantas trocas foram efetuadas.

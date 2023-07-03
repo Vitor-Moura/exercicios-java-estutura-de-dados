@@ -1,0 +1,19 @@
+Baseado no tema, deve-se  utilizar classe abstrata ou interface para forçar a implementação de um método abstrato em pelo menos 2 classes diferentes. Se optar por interface para forçar a implementação, pode usar uma classe abstrata também, como o que fizemos em aula (uma classe abstrata que implementa a interface).
+
+Elaborar e entregar um PRINT do Diagrama de Classe.
+
+Lembre-se que para usar classe abstrata, tem que usar herança e tem que fazer sentido usar o "É UM".
+
+Por exemplo, podemos dizer que Computador É UM Eletronico ou tambem podemos ter LivroDeAcao É UM LIVRO.
+
+Então faz sentido Computador ser uma classe herdeira de Eletronico, e LivroDeAcao ser uma classe herdeira de Livro.
+
+Agora, o livro "Java Como Programar" é um livro, mas é um objeto da classe Livro, ou da classe LivroTecnico!
+
+Pensem nos atributos e metodos e coloque no diagrama de classe.
+
+E pense também numa classe de agregação, que agrega objetos do tipo da classe abstrata ou da interface.
+
+
+
+Tema -> Programa de TV
