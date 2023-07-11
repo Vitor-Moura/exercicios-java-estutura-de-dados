@@ -1,0 +1,14 @@
+Continue o projeto entregue na Atividade 03, adicionando a seguinte opção no menu
+
+Gravar arquivo TXT
+No fim da operação exiba Gravação efetuada com sucesso!
+Ler arquivo TXT
+Exibe a lista lida do arquivo (pode chamar o toString de cada objeto)
+Observações
+
+Para criação do arquivo txt, utilize o documento de layout criado na atividade anterior.
+Lembrando que o documento de layout precisa estar de acordo com os atributos definidos em sua classe de tema livre, portanto revise o documento de layout antes de iniciar o código.
+Lembrando também que o documento de layout tinha 2 campos a mais do que os atributos definidos em sua classe de tema livre. Portanto, ajuste para que a classe de tema livre tenha esses 2 atributos e ajuste os demais itens do menu de forma correspondente.
+Caso a opção de cadastro do menu não esteja funcional, ajustar, pois o arquivo deve ser gerado de acordo com os objetos cadastrados na lista, ou seja, na hora de testar, primeiro faça alguns cadastros, e depois a geração do arquivo txt.
+As novas opções podem ser adicionadas na ordem de sua preferencia no menu, se quiser adicionar por último, tudo bem.
+Chame a professora caso precise de ajuda para algum ajuste no projeto entregue na atividade anterior.

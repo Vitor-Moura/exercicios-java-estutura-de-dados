@@ -1,0 +1,7 @@
+00NOTA2022206-07-2023 13:21:0601
+02ADS  01202001João Victor                                       Estrutura de Dados                      10,00025
+02ADS  01202002Igor Quintanilha                                  Programação Web                         07,00000
+02ADS  01202003Luana Veija                                       Engenharia de Software                  05,00008
+02CCO  02202004Adrians Sousa                                     Cálculo Computacional                   08,50010
+02REDES04202005Mario Teixeira                                    Segurança da Informação                 07,50004
+010000000005
